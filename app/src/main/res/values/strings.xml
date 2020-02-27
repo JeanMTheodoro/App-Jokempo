@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jokempo</string>
+    <string name="title">Sorteio do App</string>
+    <string name="informatioUser">Escolha uma opção abaixo</string>
+    <string name="score">Pontos</string>
+    <string name="machine">Máquina:\</string>
+    <string name="score_machine">0</string>
+    <string name="user">You:\</string>
+    <string name="name_bnt_Reset">JOGAR</string>
+    <string name="score_user">0</string>
+</resources>
